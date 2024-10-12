@@ -20,3 +20,24 @@ cd..
 npm i express mongoose cors dotenv
 
 npm i - D nodemon prettier
+
+
+
+
+
+
+
+
+URL Uniform Resource identifier
+URI Uniform Resource Locator
+URN Uniform Resource Name
+
+
+most common headers
+accept : application/json
+user-agent
+authorization
+content -type
+cookie
+cache - control
+
