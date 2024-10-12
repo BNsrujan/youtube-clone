@@ -4,6 +4,7 @@
 /dist
 /build
 
+./Readme
 *.env
 .env
 .env.*
